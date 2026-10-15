@@ -1,7 +1,5 @@
 # QuoteFlow Implementation Plan
 
-> For agentic workers: use superpowers:executing-plans to implement this plan task by task. Implementation completed locally; release approvals remain pending.
-
 **Goal:** Build the approved responsive lead and estimate demo for small service businesses.
 **Architecture:** React feature screens consume a typed asynchronous repository backed by validated versioned browser storage. Pure domain functions own money and pipeline calculations.
 **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui.
@@ -64,7 +62,7 @@ Consumes Lead and Estimate; produces estimate list and editor using estimateTota
 - [ ] Implement estimate editor, persisted item collection, USD totals, notes, validation, and success/error feedback.
 - [ ] Verify list values and dashboard totals derive from saved estimates; run tests and commit locally.
 
-### Task 5: End-to-end verification and public handoff
+### Task 5: End-to-end verification and release preparation
 - [ ] Add a Playwright flow: submit fictional request, filter lead, save estimate, mark Won, reload, verify status and totals.
 - [ ] Verify reset requires confirmation and restores the fictional dataset. Test storage errors, keyboard navigation, dialog focus, and empty states.
 - [ ] Inspect real browser views at 375, 768, and 1440 pixels; compare to concept and fix overflow or unusable controls.
@@ -74,4 +72,4 @@ Consumes Lead and Estimate; produces estimate list and editor using estimateTota
 - [ ] Update the separate QuoteFlow Notion page with links and verified completion status.
 
 ## Current status
-Local demo implemented and verified. See ../verification.md and ../progress.md for actual execution evidence. The original checklist above is retained as the planning record. The user authorized execution with 'lets start'. Public GitHub publication and the MIT license were approved and completed. Deployment remains pending owner approval.
+Local demo implemented and verified. See ../verification.md and ../progress.md for actual execution evidence. The original checklist above is retained as the planning record. Public GitHub publication and the MIT license were approved and completed. Deployment remains pending owner approval.
