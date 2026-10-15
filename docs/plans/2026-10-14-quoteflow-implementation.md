@@ -74,4 +74,4 @@ Consumes Lead and Estimate; produces estimate list and editor using estimateTota
 - [ ] Update the separate QuoteFlow Notion page with links and verified completion status.
 
 ## Current status
-Local demo implemented and verified. See ../verification.md and ../progress.md for actual execution evidence. The original checklist above is retained as the planning record. The user authorized execution with 'lets start'. Remote GitHub publication, license selection, and deployment remain pending owner approval.
+Local demo implemented and verified. See ../verification.md and ../progress.md for actual execution evidence. The original checklist above is retained as the planning record. The user authorized execution with 'lets start'. Public GitHub publication and the MIT license were approved and completed. Deployment remains pending owner approval.
