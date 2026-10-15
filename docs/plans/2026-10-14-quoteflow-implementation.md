@@ -8,7 +8,7 @@
 **Spec:** ../specs/2026-10-14-quoteflow-design.md
 
 ## Global constraints
-Separate project at the standalone QuoteFlow project folder. ProgramPulse remains private and untouched. QuoteFlow is intended for public GitHub visibility, with explicit publication and deployment approval required. Fictional demo data only. No secrets or customer data in Git. No enabled Supabase integration in this phase.
+Separate project at the standalone QuoteFlow project folder. QuoteFlow is intended for public GitHub visibility, with explicit publication and deployment approval required. Fictional demo data only. No secrets or customer data in Git. No enabled Supabase integration in this phase.
 
 ## Review focus
 - Corrupt or unavailable browser storage: explain the condition and preserve the usable session.

@@ -3,7 +3,7 @@
 Recorded: October 14, 2026. Status: visual direction approved; local demo implemented and verified.
 
 ## Purpose and boundaries
-QuoteFlow helps small service businesses capture customer requests, manage leads, and create estimates. It is a separate project at the standalone QuoteFlow project folder. Do not modify, reference as a dependency, publish, or change visibility of ProgramPulse. QuoteFlow is intended for a public GitHub repository; ProgramPulse remains private. Publication and deployment require explicit approval.
+QuoteFlow helps small service businesses capture customer requests, manage leads, and create estimates. It is a separate project at the standalone QuoteFlow project folder. QuoteFlow is intended for a public GitHub repository. Publication and deployment require explicit approval.
 
 ## Approved visual direction
 See ../design/quoteflow-dashboard-concept.png. The user approved this desktop and mobile concept. Navy sidebar, white content, teal actions, restrained borders, rounded cards, legible typography, and generous spacing. Navigation: Overview, Leads, Estimates, Request form. Desktop lead table becomes stacked cards on mobile. The image is a visual guide: displayed dates, metrics, arrows, and sample percentages are illustrative, not fixed requirements. Only implement controls with working behavior; do not show decorative inactive settings or fabricated trend comparisons.

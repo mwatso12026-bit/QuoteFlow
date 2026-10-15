@@ -1,7 +1,7 @@
 # Public GitHub and release checklist
 
-- [x] Keep QuoteFlow documentation separate from ProgramPulse.
-- [x] Record intended public visibility for QuoteFlow and private visibility for ProgramPulse.
+- [x] Keep documentation focused on QuoteFlow.
+- [x] Record QuoteFlow repository visibility and release status.
 - [x] Save the approved mockup and design requirements.
 - [x] Review implementation plan, then build and verify the application.
 - [x] Record passing tests and browser verification.
@@ -13,4 +13,4 @@
 - [x] Add actual repository URL to README and separate Notion project page.
 - [ ] Obtain separate approval before any deployment.
 
-ProgramPulse visibility and files must remain unchanged. QuoteFlow source is public at https://github.com/mwatso12026-bit/QuoteFlow under MIT. No deployment has happened.
+QuoteFlow source is public at https://github.com/mwatso12026-bit/QuoteFlow under MIT. No deployment has happened.

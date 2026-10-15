@@ -13,7 +13,6 @@ Turn the existing QuoteFlow demo into an application where a small service-busin
 - Target Cloudflare for frontend hosting after this milestone is verified; do not deploy during this milestone.
 - One business per account, with one owner. Reserve a membership model for future employee access; no invitations or role-management interface now.
 - Keep the public fictional demo available separately from authenticated business data.
-- ProgramPulse repository, Supabase project, environment configuration, deployment, and data remain untouched.
 - Use development infrastructure first. No paid resource upgrades, custom-domain purchases, or live billing activation without an explicit cost decision.
 - Never store secrets, real customer data, project credentials, private Notion links, or personal filesystem paths in the public repository.
 

@@ -5,4 +5,4 @@
 - Local root: the standalone QuoteFlow project folder
 - Approved concept: docs/design/quoteflow-dashboard-concept.png
 
-The Notion page is a private standalone draft, separate from ProgramPulse. It can be moved to an owner-selected Notion destination later. Notion privacy does not determine GitHub visibility. ProgramPulse stays private and untouched.
+The project planning page is private. It can be moved to an owner-selected Notion destination later. Notion privacy does not determine GitHub visibility.

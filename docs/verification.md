@@ -42,4 +42,4 @@ This is a browser-only demo with fictional data. Authentication, PostgreSQL, sha
 
 ## Environment notes
 
-The default sandbox could not reach the package registry or consistently run browser networking. Dependency downloads and browser tests ran with approved escalation. The official shadcn CLI failed on a missing transitive dependency, so the official registry component sources were installed manually. Package-store configuration is local to this project; no global settings or ProgramPulse files were changed.
+The default sandbox could not reach the package registry or consistently run browser networking. Dependency downloads and browser tests ran with approved escalation. The official shadcn CLI failed on a missing transitive dependency, so the official registry component sources were installed manually. Package-store configuration is local to this project; no global settings were changed.
